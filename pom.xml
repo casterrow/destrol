@@ -118,17 +118,6 @@
                 <version>${groovy.version}</version>
             </dependency>
 
-            <dependency>
-                <groupId>org.apache.httpcomponents</groupId>
-                <artifactId>httpclient</artifactId>
-                <version>${httpclient.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.httpcomponents</groupId>
-                <artifactId>httpmime</artifactId>
-                <version>${httpclient.version}</version>
-            </dependency>
-
             <!-- spring -->
             <dependency>
                 <groupId>org.springframework.boot</groupId>
